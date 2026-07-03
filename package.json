@@ -1,6 +1,6 @@
 {
   "name": "vscode-search-provider",
-  "version": "2.4.0",
+  "version": "2.5.0",
   "description": "Provide search results from vscode",
   "type": "module",
   "private": true,
@@ -47,7 +47,7 @@
   "devDependencies": {
     "@eslint/js": "^9.2.0",
     "@types/node": "^20.14.2",
-    "bumpp": "^9.4.1",
+    "bumpp": "^11.1.0",
     "esbuild": "^0.25.0",
     "eslint": "^8.57.0",
     "eslint-config-prettier": "^9.1.0",
@@ -55,7 +55,7 @@
     "globals": "^15.2.0",
     "lint-staged": "^15.2.2",
     "prettier": "^3.2.5",
-    "semantic-release": "^23.1.1",
+    "semantic-release": "^25.0.3",
     "simple-git-hooks": "^2.11.1",
     "tsm": "^2.3.0",
     "typescript": "^5.4.5",
